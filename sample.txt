@@ -1,2 +1,3 @@
-this is the first git class
-:wq
+this is the first program
+this is very important
+
